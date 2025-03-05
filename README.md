@@ -13,10 +13,11 @@ This project focuses on real-time object detection using YOLOv10n, a lightweight
 Below are examples of the detection results:
 
 ### 📸 Image Results
-![Car Detection](images/car_detection.png)
+![Car Detection](https://github.com/HanaNabhan/Car-Plate-Detection/blob/main/result_image.png)
 
 ### 🎥 Video Results
-![License Plate Detection](videos/license_plate_demo.gif)
+![License Plate Detection](https://github.com/HanaNabhan/Car-Plate-Detection/blob/main/result_video.gif)
+
 
 ## 📈 Performance
 - **Precision:** 0.903
