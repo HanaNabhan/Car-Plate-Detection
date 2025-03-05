@@ -19,11 +19,12 @@ Below are examples of the detection results:
 ![License Plate Detection](https://github.com/HanaNabhan/Car-Plate-Detection/blob/main/result_video.gif)
 
 
-## 📈 Performance
+## 📈 Model Performance
 - **Precision:** 0.903
 - **Recall:** 0.735
 - **mAP@0.5:** 0.851
 - **mAP@0.5:0.95:** 0.496
+- **Epochs** 90/90
 
 The YOLOv10n model was selected for its speed and efficiency, trading off some accuracy for reduced computational cost.
 
@@ -47,8 +48,8 @@ Through this project, YOLOv10n demonstrated its effectiveness in real-time objec
 
 ## 📬 Contact
 - **Name:** Hana Nabhan  
-- **GitHub:** [HanaNabhan](https://github.com/HanaNabhan)  
-- **LinkedIn:** [Hana Nabhan](https://www.linkedin.com/in/HanaNabhan)
+- **GitHub:** [Hana Nabhan](https://github.com/HanaNabhan)  
+- **LinkedIn:** [Hana Nabhan](https://www.linkedin.com/in/hana-nabhan/)
 
 ---
 Feel free to contribute or raise any issues!
