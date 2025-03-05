@@ -31,8 +31,8 @@ The YOLOv10n model was selected for its speed and efficiency, trading off some a
 ## 🔧 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/YOLOv10n-Object-Detection.git
-   cd YOLOv10n-Object-Detection
+   git clone https://github.com/HanaNabhan/Car-Plate-Detection.git
+   cd Car-Plate-Detection
    ```
 2. Install dependencies:
    ```bash
